@@ -67,10 +67,15 @@ only the `@font-face` block changes.
 
 ## Open, in priority order
 
-1. **Verify the Stanford Encyclopedia links in Appendix F.** Twenty-two citations, written from
-   memory without web access. The appendix only works if they resolve — it is the one place the
-   project cites real scholarship, and a dead link there is the single fabrication that would be
-   accidental rather than deliberate.
+1. ~~Verify the Stanford Encyclopedia links in Appendix F.~~ **Done, 22 Sep 2026.** Of the
+   twenty-two citations written from memory, two slugs were dead (`entries/functions/`,
+   `entries/moral-status-full/`) and three had inaccurate titles (`health-disease`,
+   `mental-disorder`, `social-construction-naturalistic`). `entries/functions/` was swapped for
+   the real entry on the same topic, `entries/teleology-biology/` (Teleological Notions in
+   Biology); `entries/moral-status-full/` was dropped as a dead duplicate of
+   `entries/grounds-moral-status/`, already cited two lines above it. The three mistitled
+   citations were corrected to the SEP entries' actual titles. Twenty-one links now resolve to
+   the entries they claim to be.
 2. **Delete or unpublish the original Google Site** at `sites.google.com/cognigenics.io/…`
    It is public, has no artwork statement, and is the last thing tying AITHER to the company.
    Its full text is preserved in the archive file; nothing is lost.
